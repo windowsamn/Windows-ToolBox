@@ -10,7 +10,8 @@ version:1.5.2
      WindowsToolBox agreement
 Welcome to use our WindowsToolBox. Before using it, please make sure to carefully read and understand our "User Agreement." 
 
-The following is the WindowsToolBox Agreement (hereinafter referred to as "this software"). If you do not agree to use this software, please do not use it; if you use this software, we will consider that you agree to all the contents of this agreement.
+The following is the WindowsToolBox Agreement (hereinafter referred to as "this software"). 
+If you do not agree to use this software, please do not use it; if you use this software, we will consider that you agree to all the contents of this agreement.
 
 1. Copyright
 The copyright of this software belongs to the windowsamn team. Any plagiarism or piracy will be pursued. 
