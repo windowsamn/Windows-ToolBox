@@ -15,7 +15,7 @@ If you do not agree to use this software, please do not use it; if you use this 
 
 1. Copyright
 The copyright of this software belongs to the windowsamn team. Any plagiarism or piracy will be pursued. 
-This software is developed by the WINDOWSAM team without any other collaborations. 
+This software is developed by the windowsamn team without any other collaborations. 
 This software does not provide any link authorizations other than the official website. If discovered, please report immediately!
 
 2. Restrictions
