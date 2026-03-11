@@ -21,12 +21,14 @@ This software does not provide any link authorizations other than the official w
 You shall not reverse engineer, decompile, or disassemble this software product. However, if applicable laws and regulations prohibit the above restrictions, they shall
 not apply here.
 
-
 3. If you violate any terms and conditions of this Agreement, we may terminate the license at any time. Upon termination of the license, you must immediately destroy all
 copies of this software and documentation, or return them to us.
 
 4.No warranty for defects
-Any losses and risks caused by your use of this software product shall be borne solely by you. To the maximum extent permitted by applicable law, we do not assume any warranty liability and conditions for defects, whether express or implied, including (but not limited to) implied warranty of fitness for a particular purpose and non-infringement of others' rights.
+
+Any losses and risks caused by your use of this software product shall be borne solely by you. To the maximum extent permitted by applicable law, we do not assume any 
+warranty liability and conditions for defects, whether express or implied, including (but not limited to) implied warranty of fitness for a particular purpose and non-
+infringement of others' rights.
 
 
 5.official URL
